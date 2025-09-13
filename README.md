@@ -1,5 +1,5 @@
-# SpeedCoins-TOS
-SpeedCoins bot Terms of Service
+# Skyblock Stats-TOS
+Skyblock Stats bot Terms of Service
 Thank you for using SpeedCoins. By inviting or using the Bot in your server, you agree to the following Terms of Service.
 
 1. Usage
